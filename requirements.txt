@@ -1,0 +1,12 @@
+nltk==3.5
+torch==1.9.0
+datasets==1.2.1
+transformers==4.2.2
+sklearn
+wandb==0.10.15
+torchvision==0.10.0
+pytorch-crf==0.7.2
+spacy
+emoji
+matplotlib
+protobuf==3.20.*
